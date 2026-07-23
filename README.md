@@ -53,4 +53,4 @@ Generated outputs include:
 - Clinical simulation and visualization
 
 ## Notes
-This repository is built for academic exploration and internship portfolio use. The code is structured to make it easy to test, extend, and visualize adaptive therapy strategies for glioblastoma research.
+This repository is built for academic exploration. The code is structured to make it easy to test, extend, and visualize adaptive therapy strategies for glioblastoma research.
