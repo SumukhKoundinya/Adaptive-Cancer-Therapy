@@ -1,0 +1,2 @@
+py_acc,py_prec,py_rec,py_f1,mse,mae,r2,accuracy,precision,recall,f1,mcc,tp,tn,fp,fn,n_test,n_train,class_balance,regime_split,sparse_moves_success_rate,dense_moves_success_rate,n_sparse,n_dense
+0.25,0.1111111111111111,0.3333333333333333,0.16666666666666666,113.68065467004934,8.441405514024552,-1.690941871277555,1.0,1.0,1.0,1.0,1.0,494,506,0,0,1000,4000,"{'P_positions': 2500, 'N_positions': 2500, 'ratio_P_N': 1.0}","{'sparse': 2500, 'dense': 2500}",0.5,1.0,500,500

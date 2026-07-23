@@ -1,0 +1,19 @@
+# Intel OpenVINO and Dependencies
+openvino==2024.0.0
+openvino-dev==2024.0.0
+
+# Model conversion
+torch==2.0.1
+onnx==1.14.0
+onnxruntime==1.16.0
+
+# ML libraries
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.7.2
+
+# Existing dependencies
+scipy==1.11.2
