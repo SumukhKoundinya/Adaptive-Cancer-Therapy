@@ -1,4 +1,4 @@
- # Adaptive Cancer Therapy Simulation
+# Adaptive Cancer Therapy Simulation
 
 Adaptive Cancer Therapy is a research-oriented Python project that combines machine learning, clinical simulation, and game-theoretic tumor modeling to explore personalized treatment strategies for glioblastoma.
 
